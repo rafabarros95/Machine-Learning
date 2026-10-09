@@ -1,0 +1,13 @@
+seaborn
+matplotlib
+pandas
+scikit-learn
+numpy
+wordcloud
+nltk
+optuna
+pytest
+httpx
+fastapi
+python-multipart
+mlflow
